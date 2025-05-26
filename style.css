@@ -1,0 +1,30 @@
+body{
+    background-color: gray;
+}
+*{
+    text-align: center;
+}
+h1 {
+    background-color: goldenrod;
+    border: 5px solid black;
+    Font-size: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+ul{
+    list-style-position: inside;
+    background-color: goldenrod;
+    border-radius: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    list-style-type:none;
+    word-wrap: break-word;
+
+}
+li{
+    font-size: 25px;
+}
+/*#deleteListButton{
+    margin: 40px;
+}
+*/
